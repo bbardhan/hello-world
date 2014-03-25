@@ -14,7 +14,7 @@ public class Utility {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("this is utility kesting");
+		System.out.println("this is utility");
 
 	}
 
